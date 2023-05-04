@@ -2,7 +2,7 @@
 
 ![house](https://user-images.githubusercontent.com/70260072/200847704-6be34eb6-9f39-4328-9562-514c6b5a36ff.png)
 <div>
- Project Link(https://our-events-api.herokuapp.com/)
+ Project Link(https://combative-hen-fatigues.cyclic.app)
 </div>
 
 ## How to use the app?
